@@ -8,7 +8,7 @@ Galleries sites.  To make sure this works we need to follow certain conventions.
 a Name, Description and defines the root element if one exists (i.e #someElement). Also, mark the closing block.
 
 2. Indent styles in a section to represent if it is a child of a previous element.
-i.e.      #someDiv{
+i.e.      #someDiv{  dsdsdsdsdsd
             }
                 #someDiv ul {
                 }
